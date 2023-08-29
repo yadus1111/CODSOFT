@@ -54,7 +54,7 @@ The project provides insights into factors affecting survival and highlights the
 
 # Task-2
 # Iris Flower Classification
-![Iris Flower](![image](https://github.com/yadus1111/CODSOFT/assets/139955743/c5540959-68bc-452a-a0ac-b7a2537f412e)
+![image](https://github.com/yadus1111/CODSOFT/assets/139955743/c5540959-68bc-452a-a0ac-b7a2537f412e)
 
 
 
