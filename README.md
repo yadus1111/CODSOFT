@@ -54,7 +54,9 @@ The project provides insights into factors affecting survival and highlights the
 
 # Task-2
 # Iris Flower Classification
-![Iris Flower](https://storage.googleapis.com/kaggle-datasets-images/17860/23404/efadfebe925588a27d94d61be1d376d3/dataset-cover.jpg?t=2018-03-22-16-10-55)
+![Iris Flower](https://cdn.pixabay.com/photo/2020/06/30/14/06/blossom-5356482_1280.jpg)
+
+
 This project is an example of Iris flower classification using machine learning techniques. It uses the Iris dataset to train a classification model to predict the species of Iris flowers based on their sepal and petal characteristics.
 
 ## Table of Contents
