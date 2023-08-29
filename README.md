@@ -107,3 +107,47 @@ This project uses a logistic regression classifier for Iris flower classificatio
 - Precision (Macro): 0.97
 
 These results indicate that the classification model performs well in predicting the species of Iris flowers based on their features.
+
+
+# Task 3
+# Credit Card Fraud Detection
+![image](https://staysafe.org/wp-content/uploads/2018/01/credit-card-3.jpg)
+## Table of Contents
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Data Exploration](#data-exploration)
+- [Data Preprocessing](#data-preprocessing)
+- [Model Training](#model-training)
+- [Model Evaluation](#model-evaluation)
+- [Results](#results)
+
+## Introduction
+This repository contains a Python project for Credit Card Fraud Detection. Credit card fraud is a significant concern for financial institutions and consumers. This project aims to build a machine learning model to detect fraudulent credit card transactions.
+
+## Prerequisites
+Before running the code, ensure you have the following libraries installed:
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+## Dataset
+The dataset used in this project is [creditcard.csv](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) containing credit card transaction data. The dataset is highly unbalanced, with a small number of fraudulent transactions compared to legitimate ones.
+
+## Data Exploration
+Load the dataset and inspect its structure.
+Check for missing values.
+Explore the distribution of legitimate and fraudulent transactions.
+## Data Preprocessing
+Perform under-sampling to balance the dataset.
+Calculate the correlation matrix and visualize it using a heatmap.
+## Model Training
+Split the data into training and testing sets.
+Train a Logistic Regression model on the training data.
+## Model Evaluation
+Evaluate the model's performance on both training and testing data, considering accuracy, precision, recall, and F1-score.
+
+## Results
+Display the confusion matrix and classification report to assess the model's effectiveness in detecting credit card fraud.
