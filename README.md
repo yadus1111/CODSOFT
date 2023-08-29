@@ -54,7 +54,8 @@ The project provides insights into factors affecting survival and highlights the
 
 # Task-2
 # Iris Flower Classification
-![Iris Flower](https://cdn.pixabay.com/photo/2020/06/30/14/06/blossom-5356482_1280.jpg)
+![Iris Flower](![image](https://github.com/yadus1111/CODSOFT/assets/139955743/c5540959-68bc-452a-a0ac-b7a2537f412e)
+)
 
 
 This project is an example of Iris flower classification using machine learning techniques. It uses the Iris dataset to train a classification model to predict the species of Iris flowers based on their sepal and petal characteristics.
