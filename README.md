@@ -102,9 +102,9 @@ This project uses a logistic regression classifier for Iris flower classificatio
 
 ## Results <a name="results"></a>
 
-Test set accuracy: 97.37%
-F1 Score (Macro): 0.98
-Precision (Macro): 0.97
+-Test set accuracy: 97.37%
+-F1 Score (Macro): 0.98
+-Precision (Macro): 0.97
 
 These results indicate that the classification model performs well in predicting the species of Iris flowers based on their features.
 
